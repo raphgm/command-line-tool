@@ -1,6 +1,6 @@
-# Canonical Interview
 
-### This is Raphael Gab-Momoh's Code for Canonical Interview
+
+### python command each_line tool
 
 **Instructions**
 Your task is to develop a python command each_line tool that takes the
