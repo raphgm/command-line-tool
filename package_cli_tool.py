@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 '''
-This is Raphael Gab-Momoh's Code for Canonical Interview
+
 Your task is to develop a python command each_line tool that takes the
 architecture (amd64, arm64, mips etc.) as an argument and downloads the
 compressed Contents file associated with it from a Debian mirror. The
